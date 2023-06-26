@@ -1,0 +1,48 @@
+{
+    "name": "action-template-ts",
+    "version": "1.0.0",
+    "private": true,
+    "description": "A GitHub Actions Template for development using Typescript and Devcontainers",
+    "license": "MIT",
+    "author": {
+        "name": "Darren (Ragdata) Poulton",
+        "email": "ragdata@ragdata.dev",
+        "url": "https://github.com/ragdata"
+    },
+    "main": "src/main.ts",
+    "scripts": {
+        "build": "ncc build ./src/main.ts",
+        "package": "ncc build src/main.ts -o dist",
+        "publish": "sh -e ./scripts/publish",
+        "test": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ragsworks/action-template-ts",
+        "branch": "master"
+    },
+    "bugs": {
+        "url": "https://github.com/ragsworks/action-template-ts/issues"
+    },
+    "keywords": [
+        "action",
+        "github-actions",
+        "templates",
+        "typescript",
+        "typescript-boilerplate",
+        "ragdata",
+        "ragsworks",
+        "redeyed-software"
+    ],
+    "dependencies": {
+        "@actions/core": "^1.10.0",
+        "@actions/exec": "^1.1.1",
+        "@actions/github": "^5.1.1"
+    },
+    "devDependencies": {
+        "@types/node": "^18.11.18",
+        "@vercel/ncc": "^0.34.0",
+        "jest": "^28.1.3",
+        "typescript": "^4.9.4"
+    }
+}

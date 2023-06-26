@@ -6,9 +6,6 @@
 .path
 cfg/.defaults
 
-.releaserc
-.releaserc.yml
-
 *.bak
 
 composer.lock

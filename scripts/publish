@@ -1,0 +1,14 @@
+echo "[TEST] Checking Source Format"
+npm run format-check
+
+echo "[TEST] Testing Package"
+npm run package
+
+echo "[TEST] Testing Commit"
+npm run check-commit
+
+echo "[ACTION] Tag Repo"
+npm run tag
+
+echo "[ACTION] Release"
+npm run release

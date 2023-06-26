@@ -8,5 +8,5 @@ updates:
     - package-ecosystem: "github-actions"
       directory: "/"
       schedule:
-          # check for updates to GitHub Actions once per week
-          interval: "weekly"
+          # check for updates to GitHub Actions every day
+          interval: "daily"

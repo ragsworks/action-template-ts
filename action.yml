@@ -1,0 +1,15 @@
+# see: https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions
+name: 'RagsWorks Action Template for Typescript'
+description: 'A GitHub Actions Template for the development using Typescript and Devcontainers'
+author: 'Ragdata'
+inputs:
+    token:
+        description: GitHub Personal Access Token used to authenticate the action
+        default: ${{ github.token }}
+        required: true
+branding:
+    icon: 'file-text'
+    color: red
+runs:
+    using: node16
+    main: dist/index.js
