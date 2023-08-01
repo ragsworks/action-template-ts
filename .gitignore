@@ -1,10 +1,14 @@
 .archive/
 .idea/
+!/.idea/icon.svg
 *.iml
 
 .env
 .path
 cfg/.defaults
+
+.releaserc
+.releaserc.yml
 
 *.bak
 
