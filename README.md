@@ -1,10 +1,10 @@
 <h1 align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Ragdata/media/master/banner/wip-banner.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Ragdata/media/master/banner/pre-release.svg" />
 
 <img height="196" src="https://raw.githubusercontent.com/Ragdata/media/master/project/ragsworks/logo/ragsworks-256.png" alt="Ragdata" />
 
-[RagsWorks Action Template for Typescript v-0.1.0](https://github.com/ragsworks/action-template-ts/releases/tag/v-0.1.0)
+[Typescript Template for GitHub Actions v-0.1.0](https://github.com/ragsworks/action-template-ts/releases/tag/v-0.1.0)
 
 </h1>
 
@@ -26,7 +26,7 @@ Action Template for Typescript<br /><br />
 
 <div align="center">
 
-![Check Status](https://img.shields.io/github/checks-status/ragsworks/action-template-ts/master?logo=github&style=for-the-badge)
+[//]: # (![Check Status]&#40;https://img.shields.io/github/checks-status/ragsworks/action-template-ts/master?logo=github&style=for-the-badge&#41;)
 ![Open Bug Issues](https://img.shields.io/github/issues/ragsworks/action-template-ts/bug?logo=github&style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/ragsworks/action-template-ts/master?logo=github&style=for-the-badge)
 ![MIT](https://img.shields.io/badge/License-MIT-gold?style=for-the-badge)
@@ -68,8 +68,7 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 ## ⭐ [Project Overview](#-table-of-contents)
 
-
-
+The `Typescript Template for GitHub Actions` provides the perfect launchpad for building your own GitHub Actions written in Typescript.
 
 ### [Branch Reliability](#toc)
 
@@ -88,20 +87,19 @@ If you're contributing code to the project, you'll want 🔴
 
 ## ❓ [What's Included?](#toc)
 
-- ✅ []()
-- ✅ []()
+The perfect starting point for developing your own GitHub Actions using Typescript.
 
 [`^ Top`](#toc)
 
 ## 📂 [Installation](#toc)
 
-
+The easiest way to install a copy of this repo for yourself is to [**CLICK HERE**](https://github.com/new?template_name=action-template-ts&template_owner=ragsworks) to create your repo!
 
 [`^ Top`](#toc)
 
 ## 📛 [Badges](#toc)
 
-
+COMING SOON
 
 [`^ Top`](#toc)
 
@@ -109,23 +107,22 @@ If you're contributing code to the project, you'll want 🔴
 
 ### Project Resources
 
-- ✅ [Issues Register](https://github.com/ragsworks/action-template-ts/issues)
-- ✅ [Project Website](https://ragsworks.github.io/action-template-ts)
+- [Issues Register](https://github.com/ragsworks/action-template-ts/issues)
+- [Project Website](https://ragsworks.github.io/action-template-ts)
 
-<details><summary><h3>Community Resources</h3></summary>
+### Community Resources
 
 - [**The RedEyed Community Discord Server**](https://discord.gg/s6gZZUc67y)
 
 
 - [Community Support Document](https://github.com/ragsworks/.github/blob/master/.github/SUPPORT.md)
 - [Community Code of Conduct](https://github.com/ragsworks/.github/blob/master/.github/CODE_OF_CONDUCT.md)
+- [Community Governance Policy](https://github.com/ragsworks/.github/blob/master/.github/GOVERNANCE.md)
 - [Community Standards](https://github.com/ragsworks/action-template-ts/community)
 - [Security Policy](https://github.com/ragsworks/action-template-ts/security/policy)
 	- [Security Overview](https://github.com/ragsworks/action-template-ts/security)
 	- [Security Advisories](https://github.com/ragsworks/action-template-ts/security/advisories)
 	- [Dependabot Alerts](https://github.com/ragsworks/action-template-ts/security/dependabot)
-
-</details>
 
 [`^ Top`](#toc)
 
@@ -164,11 +161,11 @@ If you're contributing code to the project, you'll want 🔴
 
 ### [Join me & the RedEyed Community!](https://discord.gg/s6gZZUc67y)
 
-<a href="https://twitter.com/intent/follow?screen_name=RagdataAU" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-<a href="https://www.reddit.com/r/RedeyedSoftware/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
-<a href="https://dev.to/ragdata" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-373737?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="https://ragdata.substack.com/" target="_blank"><img alt="SubStack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=Substack&logoColor=white" /></a>
-<a href="https://www.facebook.com/RedEyedSoftware/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://www.facebook.com/RedeyedAU/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://redeyedau.substack.com/" target="_blank"><img alt="SubStack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=Substack&logoColor=white" /></a>
+<a href="https://dev.to/redeyed-au" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-373737?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<a href="https://www.reddit.com/r/RedeyedAU/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
+<a href="https://twitter.com/intent/follow?screen_name=RedeyedAU" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 
 [![Discord](https://img.shields.io/discord/1067204348251230298?labelColor=5865F2&label=RedEyed%20Software%20&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/s6gZZUc67y)
 
@@ -223,12 +220,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [`^ Top`](#toc)
 
 ## 📖 [Resources](#toc)
-
-### Attributed Projects
-
-
-### Relevant Resources
-
 
 [`^ Top`](#toc)
 
