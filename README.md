@@ -27,7 +27,7 @@ Action Template for Typescript<br /><br />
 <div align="center">
 
 [//]: # (![Check Status]&#40;https://img.shields.io/github/checks-status/ragsworks/action-template-ts/master?logo=github&style=for-the-badge&#41;)
-![Open Bug Issues](https://img.shields.io/github/issues/ragsworks/action-template-ts/bug?logo=github&style=for-the-badge)
+![Open Bug Issues](https://img.shields.io/github/issues-raw/ragsworks/action-template-ts?logo=github&style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/ragsworks/action-template-ts/master?logo=github&style=for-the-badge)
 ![MIT](https://img.shields.io/badge/License-MIT-gold?style=for-the-badge)
 
